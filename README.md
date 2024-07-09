@@ -19,9 +19,12 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/yourusername/registration-login-page.git
    cd registration-login-page
+```
 
 ## Running the application
+```bash
 mvn spring-boot:run
+```
 
 
 Feel free to modify the content to better match your specific project setup and requirements.
